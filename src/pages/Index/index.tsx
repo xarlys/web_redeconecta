@@ -5,7 +5,7 @@ import React from 'react';
 const Index = () => (
   
   <>
-    <h1>Hello World!</h1>
+    <h1 style={{color: 'white'}}>Hello World!</h1>
   </>
 );
 
